@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## 서울시 고등학교 진학 상담 챗봇 '하이'와 대화해보세요! 
 
-You can use the [editor on GitHub](https://github.com/dahyun1234/HiHigh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+챗봇 '하이'는 2022학년도 서울시 고등학교 진학에 대한 정보를 제공합니다
+- 2022학년도 서울시 고등학교 입시 일정
+- 서울시 소재 고등학교 종류
+- 내 주변 고등학교 찾아보기
+- 고등학교 진학 관련 심층상담 예약하기
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### **오른쪽 아래** 동그란 버튼을 눌러 '하이'와의 대화를 시작해보세요!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
