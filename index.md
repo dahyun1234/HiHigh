@@ -1,5 +1,5 @@
 ### :orange_heart: 고등학교 진학 상담 챗봇 '하이'와 대화해보세요!
-![student](https://user-images.githubusercontent.com/81274352/118222153-07a36e80-b4ba-11eb-88c7-6e4c79986f5d.png)
+![student](https://user-images.githubusercontent.com/81274352/118222153-07a36e80-b4ba-11eb-88c7-6e4c79986f5d.png){: width="300" height="300"}
 
 ### :green_heart: '하이'는 2022학년도 서울시 고등학교 입시에 대한 정보를 제공합니다.
 - 2022학년도 서울시 고등학교 입시 일정
