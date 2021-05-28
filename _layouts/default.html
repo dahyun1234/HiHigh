@@ -5,7 +5,7 @@
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
-  chat-title="'하이'선배와 고등학교 상담하기"
+  chat-title="고등학교 진학 상담"
   agent-id="b1bfed5d-271b-4369-a5cc-063fc53ef7fa"
   language-code="ko"
 ></df-messenger>
@@ -27,7 +27,7 @@
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title=chat-title"}}</h1>
+          <h1>{{ site.title=chat-title}}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
